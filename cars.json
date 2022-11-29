@@ -1,0 +1,25 @@
+[
+{
+    "Make": "Honda",
+    "Model": "CRV",
+    "Year": 2019,
+    "Color": "Blue",
+    "Availability": true
+    
+},
+{
+    "Make": "Mazda",
+    "Model": "CX-6",
+    "Year": 2018,
+    "Color": "Red",
+    "Availability": false
+    
+},
+{
+    "Make": "Lexus",
+    "Model": "RX-300",
+    "Year": 2020,
+    "Color": "Green",
+    "Availability": true
+}
+]
